@@ -4,6 +4,8 @@ https://www.cnblogs.com/cjsblog/p/9152455.html
 
 https://blog.csdn.net/qq_29580525/article/details/79317969
 
+https://segmentfault.com/a/1190000015191298
+
 
 Spring security 5.0中新增了多种加密方式，也改变了密码的格式。会报错:
 
